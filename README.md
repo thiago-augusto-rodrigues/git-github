@@ -10,3 +10,4 @@ node app.js
 ```
 
 Exercícios do Curso alura Git e GitHub: reposítório, commit e versões
+:)
