@@ -6,7 +6,7 @@
 Para rodar esse proejto na sua máquina , por favor digite:
 
 ```
-npm install react
+node app.js
 ```
 
 Exercícios do Curso alura Git e GitHub: reposítório, commit e versões
