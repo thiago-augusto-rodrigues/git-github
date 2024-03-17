@@ -9,5 +9,5 @@ Para rodar esse proejto na sua máquina , por favor digite:
 node app.js
 ```
 
-Exercícios do Curso alura Git e GitHub: reposítório, commit e versões
+Meu primeiro repositório git orientado pelo Curso alura Git e GitHub: reposítório, commit e versões
 :)
